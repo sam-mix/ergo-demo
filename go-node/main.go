@@ -18,7 +18,7 @@ var (
 
 func init() {
 	viper.SetDefault("node.name", "gm@127.0.0.1")
-	viper.SetDefault("node.cookie", "6bc1t325xjo21c1")
+	viper.SetDefault("node.cookie", "123")
 	viper.SetDefault("node.listen_range_begin", uint16(40001))
 	viper.SetDefault("node.listen_range_end", uint16(44000))
 	viper.SetDefault("node.epmd_port", uint16(4369))
