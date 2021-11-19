@@ -44,4 +44,4 @@ get:
 
 .PHONY:
 cfg:
-	cp ergo/conf/config.default.toml ergo/conf/config.toml
+	cp go/conf/config.default.toml go/conf/config.toml
